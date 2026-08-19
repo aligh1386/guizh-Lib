@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"net.guizhanss.guizhanlib.minecraft"},{"l":"net.guizhanss.guizhanlib.minecraft.commands"},{"l":"net.guizhanss.guizhanlib.minecraft.localization"},{"l":"net.guizhanss.guizhanlib.minecraft.utils"},{"l":"net.guizhanss.guizhanlib.minecraft.utils.compatibility"}];updateSearchResults();

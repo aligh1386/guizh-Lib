@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"net.guizhanss.guizhanlib.slimefuncn.utils","l":"NewBlockStorageUtil"}];updateSearchResults();

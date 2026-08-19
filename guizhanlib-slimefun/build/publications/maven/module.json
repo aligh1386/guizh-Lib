@@ -1,0 +1,38 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.guizhanss",
+    "module": "guizhanlib-slimefun",
+    "version": "2.5.0-folia-local",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.13"
+    }
+  },
+  "variants": [
+    {
+      "name": "shadowRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "shadowed",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "guizhanlib-slimefun-2.5.0-folia-local.jar",
+          "url": "guizhanlib-slimefun-2.5.0-folia-local.jar",
+          "size": 132510,
+          "sha512": "ab33c70b82dfee7528a632f94d338823119aa700e0caf975d80cc3bd34729907edf93393119e365f3e3839f263bba2ca9951cbb4c41a5ce83e85f693b0cf7402",
+          "sha256": "0d0eb8a4fac9d46384d2b0ca1adc5aa2508e1bb290c9da29bb2040c76c4354e9",
+          "sha1": "41b9ba0beee60c4feb603818ca1eee7f11d6560f",
+          "md5": "5243b4a5bf1444dcaeb4df6b4d02ae36"
+        }
+      ]
+    }
+  ]
+}

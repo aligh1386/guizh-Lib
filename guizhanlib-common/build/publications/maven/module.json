@@ -1,0 +1,38 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.guizhanss",
+    "module": "guizhanlib-common",
+    "version": "2.5.0-folia-local",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.13"
+    }
+  },
+  "variants": [
+    {
+      "name": "shadowRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "shadowed",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "guizhanlib-common-2.5.0-folia-local.jar",
+          "url": "guizhanlib-common-2.5.0-folia-local.jar",
+          "size": 28541,
+          "sha512": "6a5f32c7db94e371042fb0132d24dd489572e97bbfd16b02ccb65736e83deef7d7c7de8cd714098d9dedf01d03991d4d8a41069cfeb7caeb37334b189c439359",
+          "sha256": "a8b6fad3e99a9a737fb7f4bd3aefc2db9b2ac7e6b6b1c4bf43cde3dd8fa75952",
+          "sha1": "a3db517c5dbfad5b09ffedbee5e5cfca7499ef28",
+          "md5": "f68273b32edc5379b8a54c732c71d8a1"
+        }
+      ]
+    }
+  ]
+}

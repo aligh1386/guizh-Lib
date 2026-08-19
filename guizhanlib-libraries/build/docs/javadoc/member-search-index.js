@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"net.guizhanss.guizhanlib.libraries","c":"BukkitLibraryManager","l":"addToClasspath(Path)","u":"addToClasspath(java.nio.file.Path)"},{"p":"net.guizhanss.guizhanlib.libraries","c":"BukkitLibraryManager","l":"BukkitLibraryManager(Plugin)","u":"%3Cinit%3E(org.bukkit.plugin.Plugin)"}];updateSearchResults();

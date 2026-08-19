@@ -1,0 +1,38 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.guizhanss",
+    "module": "guizhanlib-minecraft",
+    "version": "2.5.0-folia-local",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.13"
+    }
+  },
+  "variants": [
+    {
+      "name": "shadowRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "shadowed",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "guizhanlib-minecraft-2.5.0-folia-local.jar",
+          "url": "guizhanlib-minecraft-2.5.0-folia-local.jar",
+          "size": 104700,
+          "sha512": "511adb7f5fb57c522830a728ef511250af27f2c190abd264bc39addd2aec6a149630a8fb04b9a139a94328b044cc7dd5e2ec632b01176822a23f0cf15c7f8e21",
+          "sha256": "773454a1121cc54957d2d76855cd269591127d3cefc086bac527e99656cf1fc2",
+          "sha1": "2ff02c3a6cbbb94fed6ed0e10612b7c03956e73b",
+          "md5": "0020244d98d16477e9391181ca7f8268"
+        }
+      ]
+    }
+  ]
+}

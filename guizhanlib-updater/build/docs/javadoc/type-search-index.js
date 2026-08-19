@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"net.guizhanss.guizhanlib.updater","l":"GuizhanBuildsUpdater"},{"p":"net.guizhanss.guizhanlib.updater","l":"UpdaterConfig"},{"p":"net.guizhanss.guizhanlib.updater","l":"UpdaterConfig.UpdaterConfigBuilder"}];updateSearchResults();
