@@ -54,8 +54,9 @@ subprojects {
         useJUnitPlatform()
     }
 
-    tasks.withType<ShadowJar> {
+    tasks.named<ShadowJar>("shadowJar") {
         archiveClassifier = ""
+        dependsOn(tasks.named("jar"))
     }
 
     sonar {
